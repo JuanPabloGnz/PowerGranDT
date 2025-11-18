@@ -4,7 +4,7 @@
 
 Se basa en un scraper para obtener y anlizar las principales estadísticas de los jugadores que forman parte de los equipos de la Primera División del fútbol argentino. 
 
-Se implementa un scraper que recolecta datos de una hoja de calculo subida en una página web. Posteriormente se limpian los datos en python y se exportan en un archivo .csv, para últimamente realizar un reporte visual en con Power BI.
+Se implementa un scraper que recolecta datos de una hoja de calculo subida en una página web. Posteriormente se limpian los datos en python y se exportan en un archivo .csv, para últimamente realizar un reporte visual en Power BI.
 
 ---
 
