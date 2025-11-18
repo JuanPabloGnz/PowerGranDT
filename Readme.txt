@@ -53,7 +53,7 @@ Scraping/dependencias/requirements.txt
 
 ## 💻 Uso de la aplicación
 
-1. La primer página contiene un diccionario de las principales estadísticas y métricas utilizadas. A partir de este, se puede lograr un mayor entendimiento de los gráficos
+1. La primer página contiene un diccionario de las principales estadísticas y métricas utilizadas. A partir de este, se puede lograr un mayor entendimiento de los gráficos.
 
 2. El resto de páginas contienen visualizaciones para la toma de decisión.
 ---
