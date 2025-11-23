@@ -58,7 +58,7 @@ Scraping/dependencias/requirements.txt
 2. El resto de páginas contienen visualizaciones para la toma de decisión.
 ---
 
-## 🙎‍♀️ Autor
+## 🧑​ Autor
 
 - Gonzalez Juan Pablo
 
